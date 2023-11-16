@@ -1,0 +1,5 @@
+.my-custom-box-class {
+    max-width: 1000px; /* Set your desired maximum width */
+    margin: 0 auto; /* Center the box horizontally, optional */
+}
+
